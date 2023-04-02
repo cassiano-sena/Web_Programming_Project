@@ -1,0 +1,125 @@
+/* 
+    font-family: 'Noto Nastaliq Urdu', serif;
+
+    font-family: 'Noto Sans Avestan', sans-serif;
+
+    font-family: 'Noto Sans Miao', sans-serif;
+
+    font-family: 'Noto Sans Zanabazar Square', sans-serif;
+
+    font-family: 'Noto Serif Sinhala', serif;
+
+    font-family: 'Source Code Pro', monospace;
+
+    font-family: 'Tangerine', cursive;
+ */
+
+body{
+    /* background-color: lightslategray;     */
+    background-color: black;    
+    color: white;
+}
+
+.text{
+    text-align: center;
+}
+
+.line{
+    margin: auto;
+    background-color: white;
+    width: 50%;
+    height: 3px;
+}
+
+.subtitle-text{
+    margin-top: 150px;
+    margin-bottom: 150px;
+    text-align: center;
+}
+
+.paragraph{
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.ancient-caligraphy{
+    font-family: 'Noto Sans Miao', sans-serif;
+}
+
+.div-list{
+    background-image: url("../lib/forest2.jpg");
+    margin-top: 70px;
+    margin-bottom: 70px;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+.beautiful{
+    background-image: url("../lib/beautiful.jpg");
+    height: 600px;
+}
+
+.list{
+    text-align: center;
+    line-height: 60px;
+}
+
+.almost-hidden{
+    opacity: 0.3;
+}
+
+.hidden{
+    opacity: 0.1;
+}
+
+.abyss{
+    color: dimgrey;
+    text-align: justify;
+    font-family: 'Noto Serif Sinhala', serif;;
+}
+
+.friendly-caligraphy{
+    font-family: 'Tangerine', cursive;
+}
+
+.nice-caligraphy{
+    text-align: justify;
+    font-family: 'Noto Sans Miao', sans-serif;
+}
+
+.div-icon{
+    margin-left: 80%;
+}
+
+.icon{
+    margin: 20px;
+    right: 0;
+    display: inline-grid;
+}
+
+.header-image{
+    display: grid;
+    align-content: center;
+    margin: auto;
+}
+
+.page-title{
+    background-image: url("../lib/thumb.png");
+    font-family: 'Source Code Pro', monospace;
+    text-align: center;
+    font-size: 50px;
+}
+.iframe-video{
+    align-items: center;
+    margin: auto;
+    border: solid 4px greenyellow;
+}
+
+.teste-fonte
+{
+    font-size: 5;
+    text-align: justify;
+    font-family: 'Noto Nastaliq Urdu', serif;
+    color: red;
+}
