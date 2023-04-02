@@ -1,0 +1,21 @@
+body{
+    background-color: lightslategray;    
+}
+
+.div-footer{
+    position: sticky;
+    height: 100px;
+    align-items: bottom;
+    background-color: dimgray;
+}
+
+.iframe-video{
+    align-items: center;
+    margin: auto;
+    border: solid 4px greenyellow;
+}
+
+.teste-fonte
+{
+    font-family: "../lib/Rajdhani/Rajdhani-light.ttf";
+}
